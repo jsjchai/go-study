@@ -29,6 +29,7 @@ func (r *Rect) area() float32 {
 	return r.width * r.heigth
 }
 
+//周长
 func (r *Rect) perimeter() float32 {
 	return (r.width + r.heigth) * 2
 }
