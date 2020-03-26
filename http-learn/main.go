@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"http-learn/router"
 	"net/http"
 )
 
@@ -14,7 +15,9 @@ func (h *httpHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	http.Handle("/hello", &httpHandler{})
-	_ = http.ListenAndServe(":9898", nil)
+	//http.Handle("/hello", &httpHandler{})
+	//_ = http.ListenAndServe(":9898", nil)
+
+	router.Init()
 
 }
