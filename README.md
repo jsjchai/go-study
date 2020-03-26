@@ -26,3 +26,5 @@
 [golang-goroutine-vs-thread](https://www.geeksforgeeks.org/golang-goroutine-vs-thread/)
 
 [进程wiki](https://zh.wikipedia.org/wiki/%E8%A1%8C%E7%A8%8B)
+
+[go中如何处理堆栈](https://blog.cloudflare.com/how-stacks-are-handled-in-go/)
