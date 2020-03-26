@@ -9,6 +9,6 @@
 > 进程是计算机管理运行程序的一种方式，一个进程下可包含一个或者多个线程。线程可以理解为子进程。
 ## 协程与线程的区别
 ## 参考文档
-(golang-goroutine-vs-thread)[https://www.geeksforgeeks.org/golang-goroutine-vs-thread/]
+[golang-goroutine-vs-thread](https://www.geeksforgeeks.org/golang-goroutine-vs-thread/)
 
-(进程wiki)[https://zh.wikipedia.org/wiki/%E8%A1%8C%E7%A8%8B]
+[进程wiki](https://zh.wikipedia.org/wiki/%E8%A1%8C%E7%A8%8B)
